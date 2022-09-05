@@ -1,0 +1,6 @@
+snack link:--
+https://snack.expo.dev/@shashwatshukla123/class-181
+example:--
+https://snack.expo.dev/@subhra/face-detector-example
+demo:--
+https://snack.expo.dev/@subhra/github.com-chelseafarley-expofacedetectordemo
